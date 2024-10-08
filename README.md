@@ -1,4 +1,4 @@
-Quora Duplicate Question Detection
+                                                                      Quora Duplicate Question Detection
 Project Overview
 This project aims to build a machine learning model to identify duplicate questions on Quora. By detecting duplicate questions, Quora can consolidate answers, reduce redundancy, and improve the user experience. The model predicts whether a pair of questions is duplicate or not, enabling Quora to provide users with existing answers for commonly asked questions.
 
